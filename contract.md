@@ -15,7 +15,7 @@ I, `George Nesbitt`, agree to :
 3)  Complete a “Satisfactory” presentation based on some portfolio
     pieces. 10 minutes total in length.
 
-# Satisfactory defined:
+### Satisfactory Defined:
 
     -  I have attempted all steps of the assignment. If unable to complete steps due to unresolved questions, I have asked questions in Github FAQs or zoom help session, or I have Googled the issue and shown effort to resolve questions;
     -  I have checked that forked files, repos, or projects appear on my Github account and are accessible;
