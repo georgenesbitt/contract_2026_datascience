@@ -158,28 +158,26 @@ I, `George Nesbitt`, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to rearrange these labs and events to fit your needs.
-
-- [ ] `r advdate(dayone, 1, topic)`
-  - Finish Lab 1 by `r startweek`:  `r advdate(dayone, 1, assignment=startweek)`
-- [ ] `r advdate(dayone, 2, topic)`
-  - Finish Lab 2 by `r startweek`:  `r advdate(dayone, 2, assignment=startweek)`
-  - Propose your contract to Mason by `r startweek`:  `r advdate(dayone, 2, assignment=startweek)`
-- [ ]  `r advdate(dayone, 3, topic)`
-  - Finish Lab 3  by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
-  - Finish portfolio piece 1 by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
-- [ ] `r advdate(dayone, 4, topic)`
-  - Finish Lab 4  by `r startweek`:  `r advdate(dayone, 4, assignment=startweek)`
-  - Finish portfolio piece 2 by `r startweek`:  `r advdate(dayone, 4, assignment=startweek)`
-- [ ] `r advdate(dayone, 5, topic)`
-  - Finish Lab 5  by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
-  - Finish portfolio piece 3 by Wednesday: 2/8
-  - Finish portfolio piece 4 by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
-- [ ] `r advdate(dayone, 6, topic)`
-  - Finish Lab 6 by `r startweek`:  `r advdate(dayone, 6, assignment=startweek)`
-  - Finish Portfolio piece 5 by `r startweek`:  `r advdate(dayone, 6, assignment=startweek)`
-- [ ] `r advdate(dayone, 7, topic)`
-  - Finish Lab 7 by `r startweek`:  `r advdate(dayone, 7, assignment=startweek)`
-  - Finish portfolio piece 6 by `r startweek`:  `r advdate(dayone, 7, assignment=startweek)`
+- [ ]  Module 1: 01/12 - 01/18
+  - Finish Lab 1 by Tuesday: 01/20
+- [ ]  Module 2: 01/19 - 01/25
+  - Finish Lab 2 by Friday: 01/23
+  - Propose your contract to Mason by Friday: 01/23
+- [ ]  Module 3: 01/26 - 02/01
+  - Finish Lab 3  by Friday: 01/30
+  - Finish portfolio piece 1 Friday: 01/30
+- [ ]  Module 4: 02/02 - 02/08
+  - Finish Lab 4  by Friday: 02/06
+  - Finish portfolio piece 2 by Friday: 02/06
+- [ ]  Module 5: 02/09 - 02/15
+  - Finish Lab 5  by Thursday: 02/12
+  - Finish portfolio piece 3 by Thursday: 02/12
+- [ ]  Module 6: 02/16 - 02/22
+  - Finish Lab 6 by Wednesday: 02/18
+  - Finish portfolio piece 4 by Friday: 02/20
+  - Finish Portfolio piece 5 by Sunday: 02/22
+- [ ]  Module 7: 02/23 - 03/01
+  - Finish Lab 7 by Friday: 02/27
+  - Finish portfolio piece 6 by Friday: 02/27
 
 

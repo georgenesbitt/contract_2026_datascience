@@ -24,28 +24,24 @@ I, `George Nesbitt`, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to
-rearrange these labs and events to fit your needs.
-
-- [ ] Module 01, 01/09 - 01/13 : What is Data Science and Meet the
-  Toolkit
-  - Finish Lab 1 by Friday: 01/13
-- [ ] Module 02, 01/16 - 01/20 : Data and Visualization
-  - Finish Lab 2 by Friday: 01/20
-  - Propose your contract to Mason by Friday: 01/20
-- [ ] Module 03, 01/23 - 01/27 : Grammar of data wrangling
-  - Finish Lab 3 by Friday: 01/27
-  - Finish portfolio piece 1 by Friday: 01/27
-- [ ] Module 04, 01/30 - 02/03 : Data types and Data Transformations
-  - Finish Lab 4 by Friday: 02/03
-  - Finish portfolio piece 2 by Friday: 02/03
-- [ ] Module 05, 02/06 - 02/10 : Tips for effective data visualization
-  - Finish Lab 5 by Friday: 02/10
-  - Finish portfolio piece 3 by Wednesday: 2/8
-  - Finish portfolio piece 4 by Friday: 02/10
-- [ ] Module 06, 02/13 - 02/17 : Scientific studies and confounding
-  - Finish Lab 6 by Friday: 02/17
-  - Finish Portfolio piece 5 by Friday: 02/17
-- [ ] Module 07, 02/20 - 02/24 : Web scraping
-  - Finish Lab 7 by Friday: 02/24
-  - Finish portfolio piece 6 by Friday: 02/24
+- [ ] Module 1: 01/12 - 01/18
+  - Finish Lab 1 by Tuesday: 01/20
+- [ ] Module 2: 01/19 - 01/25
+  - Finish Lab 2 by Friday: 01/23
+  - Propose your contract to Mason by Friday: 01/23
+- [ ] Module 3: 01/26 - 02/01
+  - Finish Lab 3 by Friday: 01/30
+  - Finish portfolio piece 1 Friday: 01/30
+- [ ] Module 4: 02/02 - 02/08
+  - Finish Lab 4 by Friday: 02/06
+  - Finish portfolio piece 2 by Friday: 02/06
+- [ ] Module 5: 02/09 - 02/15
+  - Finish Lab 5 by Thursday: 02/12
+  - Finish portfolio piece 3 by Thursday: 02/12
+- [ ] Module 6: 02/16 - 02/22
+  - Finish Lab 6 by Wednesday: 02/18
+  - Finish portfolio piece 4 by Friday: 02/20
+  - Finish Portfolio piece 5 by Sunday: 02/22
+- [ ] Module 7: 02/23 - 03/01
+  - Finish Lab 7 by Friday: 02/27
+  - Finish portfolio piece 6 by Friday: 02/27
