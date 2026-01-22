@@ -142,7 +142,7 @@ topic = c(
 
 
 
-# Contract Grades – “`George N” Contract
+# Contract Grades – George Nesbitt's Contract
 
 I, `George Nesbitt`, agree to :
 

@@ -1,10 +1,10 @@
 Grading Contract
 ================
-January 20 2026
+January 22 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
-# Contract Grades – “\`George N” Contract
+# Contract Grades – George Nesbitt’s Contract
 
 I, `George Nesbitt`, agree to :
 
